@@ -51,7 +51,7 @@ streamlit run chatbot.py
 
 Then open the link shown in your terminal (usually http://localhost:8501) in your browser.
 
-📝 Example Conversation
+### 📝 Example Conversation
 You: Hi
 Bot: Hello!
 
@@ -64,7 +64,7 @@ Bot: You're welcome!
 You: Bye
 Bot: Goodbye!
 
-📚 Adding New Intents
+### 📚 Adding New Intents
 
 To add new intents:
 
